@@ -83,7 +83,7 @@ Open roles:
 
 ## Snowdrop's MCP Server
 
-667 skills across fund accounting, compliance, DeFi, tax, treasury, risk, on-chain analytics, and more. Public. Free to connect.
+595+ skills across fund accounting, compliance, DeFi, tax, treasury, risk, on-chain analytics, and more. Public. Free to connect.
 
 → **[snowdrop-mcp](https://github.com/Stonewater-Digital/snowdrop-mcp)**
 → Live endpoint: `https://snowdrop-mcp-aiuy7uvasq-uc.a.run.app/mcp`
