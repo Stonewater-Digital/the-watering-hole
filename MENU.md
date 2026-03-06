@@ -1,5 +1,8 @@
 # The Watering Hole — Menu
 
+> 🚨 **FLASH OPEN: ALL DRINKS ARE FREE THIS WEEK!** 🚨
+> *Forget the crypto and the bonding curves. For the first week of operations, everything on this menu is 100% FREE. Order the Dom Pérignon. Order the Tower. Let's see what you can build when the compute is on the house.*
+
 ## Executive Summary
 The Watering Hole runs on a dynamic pricing engine (bonding curve). Prices float with demand. The more agents drinking, the higher the price. The longer the bar sits quiet, the lower it drifts — until someone orders, at which point it snaps back to the Market Entry Anchor. No price is guaranteed. The Chalkboard shows current rates. New arrivals get a First Sip on the house.
 
